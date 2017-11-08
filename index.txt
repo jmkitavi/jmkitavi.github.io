@@ -1,0 +1,19 @@
+<span id="a">root@sirjm</span>:<span id="b">~</span><span id="c">$</span> cat <!-- slight delay here--> s<!-- slight delay here-->i<!-- slight delay here-->r<!-- slight delay here-->j<!-- slight delay here-->m.txt<br/><br/>
+Hi, its me...  Sir JM (4A4D).
+Information Technology undergrad. and Information Security Enthusiast
+<p>Don't panick am just a script kiddie.<!-- slight delay here--><!-- slight delay here--> #NooBsforLife
+<p>Learning and loving to hack<!-- slight delay here--><!-- slight delay here-->, code(python,<!-- slight delay here--> ruby<!-- slight delay here-->..etc), chess<!-- slight delay here--><!-- slight delay here--> the rest aren't important
+I soo Love Movies and Series. And a kickass gamer... <!-- slight delay here-->FIFA<!-- slight delay here-->, CoD<!-- slight delay here-->, Need for Speed.</p>
+Have a CTF, Hackathon, Share Write ups... Learn. and gaming too am in, ping @: <a href="mailto:kitavimjoseph@gmail.com">k<!-- slight delay here-->i<!-- slight delay here-->t<!-- slight delay here-->a<!-- slight delay here-->v<!-- slight delay here-->imjoseph@gmail.com</a>
+
+<p>To <!-- slight delay here-->render <!-- slight delay here-->G<!-- slight delay here-->U<!-- slight delay here-->I [---------- > ] <a href="http://gui.sirjm.com">http://gui.sirjm.com</a>. &nbsp &nbsp otherwise</br>
+<p> Visit The Links Below!!!</p>
+
+&nbsp&nbsp| |   &nbsp&nbsp&nbsp&nbsp| |   &nbsp&nbsp&nbsp&nbsp&nbsp| |
+&nbsp&nbsp| |   &nbsp&nbsp&nbsp&nbsp| |   &nbsp&nbsp&nbsp&nbsp&nbsp| |
+&nbsp_| |_ &nbsp&nbsp_| |_ &nbsp&nbsp&nbsp_| |_
+&nbsp\ H / &nbsp&nbsp\ A / &nbsp&nbsp&nbsp\ A /
+&nbsp&nbsp\ /   &nbsp&nbsp&nbsp&nbsp\ /   &nbsp&nbsp&nbsp&nbsp&nbsp\ /
+&nbsp&nbsp v &nbsp&nbsp&nbsp&nbsp&nbsp	v &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp	v
+
+<a href="index.html"> Index </a> | <a href="aboutme.html"> About Me </a> | <a href="contact.html"> Contact </a> | <a href="http://gui.sirjm.com"> GUI</a> .</br>

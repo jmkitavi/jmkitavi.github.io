@@ -45,7 +45,8 @@
 		init: function(){// inizialize Hacker Typer
 			accessCountimer=setInterval(function(){Typer.updLstChr();},500); // inizialize timer for blinking cursor
 			$.get(Typer.file,function(data){// get the text file
-				Typer.text='<span id="a">root@sirjm</span>:<span id="b">~</span><span id="c">$</span> cat <!-- slight delay here--> s<!-- slight delay here-->i<!-- slight delay here-->r';// save the textfile in Typer.text
+				Typer.text = data;
+				// Typer.text='<span id="a">root@sirjm</span>:<span id="b">~</span><span id="c">$</span> cat <!-- slight delay here--> s<!-- slight delay here-->i<!-- slight delay here-->r';// save the textfile in Typer.text
 				Typer.text = Typer.text.slice(0, Typer.text.length-1);
 			});
 		},

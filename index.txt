@@ -6,6 +6,6 @@ Software developer and Information Security Enthusiast
 I also do movies, tv shows and some gaming... <!-- slight delay here-->FIFA<!-- slight delay here-->, CoD<!-- slight delay here-->, Need for Speed.</p>
 Have a Project, CTF, Hackathon, Write ups... Learn. and gaming too am in. <br> ping @: <a href="mailto:kitavimjoseph@gmail.com">k<!-- slight delay here-->i<!-- slight delay here-->t<!-- slight delay here-->a<!-- slight delay here-->v<!-- slight delay here-->imjoseph@gmail.com</a>
 
-<p>To <!-- slight delay here-->render <!-- slight delay here-->G<!-- slight delay here-->U<!-- slight delay here-->I and read some <!-- slight delay here-->E<!-- slight delay here-->P<!-- slight delay here-->I<!-- slight delay here-->C content visit my <!-- slight delay here--> <a href="https://sirjmkitavi.github.io/blog" target="_blank">blog</a>.</br></p>
+<p>To <!-- slight delay here-->render <!-- slight delay here-->G<!-- slight delay here-->U<!-- slight delay here-->I and read some <!-- slight delay here-->E<!-- slight delay here-->P<!-- slight delay here-->I<!-- slight delay here-->C content visit my <!-- slight delay here--> <a href="https://sirjmkitavi.github.io/blog">blog</a>.</br></p>
 
 <span id="a">root@sirjm</span>:<span id="b">~</span><span id="c">$</span>

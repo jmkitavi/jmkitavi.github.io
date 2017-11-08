@@ -39,7 +39,7 @@
 		accessCountimer:null,
 		index:0, // current cursor position
 		speed:2, // speed of the Typer
-		file:"", //file, must be setted
+		file:"https://raw.githubusercontent.com/sirjmkitavi/sirjmkitavi.github.io/master/index.txt", //file, must be setted
 		accessCount:0, //times alt is pressed for Access Granted
 		deniedCount:0, //times caps is pressed for Access Denied
 		init: function(){// inizialize Hacker Typer
@@ -140,15 +140,15 @@
 	}
 	}
 	Typer.speed=3;
-	Typer.file="index.txt";
+	Typer.file="https://raw.githubusercontent.com/sirjmkitavi/sirjmkitavi.github.io/master/index.txt";
 	Typer.init();
 	 
 	var timer = setInterval("t();", 30);
 	function t() {
 		Typer.addText({"keyCode": 123748});
-		// if (Typer.index > Typer.text.length) {
-		// 	clearInterval(timer);
-		// }
+		if (Typer.index > Typer.text.length) {
+			clearInterval(timer);
+		}
 	}
 	 
 	</script> 

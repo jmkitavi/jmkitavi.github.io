@@ -1,11 +1,11 @@
 <span id="a">root@sirjm</span>:<span id="b">~</span><span id="c">$</span> cat <!-- slight delay here--> s<!-- slight delay here-->i<!-- slight delay here-->r<!-- slight delay here-->j<!-- slight delay here-->m.txt<br/><br/>
-Hi, its me...  Sir JM Kitavi👨🏾‍💻.
-Software developer and Information Security Enthusiast
-<p>Don't panick am just a script kiddie.<!-- slight delay here--><!-- slight delay here--> #NooBsforLife
+<p>Hi, its me...  Sir JM Kitavi👨🏼‍💻.</p>
+<p>Software developer and Information Security Enthusiast
+Don't panick am just a script kiddie.<!-- slight delay here--><!-- slight delay here--> #NooBsforLife, but a kickass dev🙌🏽</p>
 <p>Learning and loving to hack<!-- slight delay here--><!-- slight delay here-->, write code (javascript, <!-- slight delay here--> python,<!-- slight delay here--> ruby<!-- slight delay here-->..etc) and chess<!-- slight delay here-->.</p>
 <p>I also do movies, tv shows and some gaming... <!-- slight delay here-->FIFA<!-- slight delay here-->, CoD<!-- slight delay here-->, Need for Speed.</p>
 For more on me😎 visit <a href="https://sirjmkitavi.github.io/blog/about">ME</a>😂
 
-<p>To <!-- slight delay here-->render 👉🏾<a href="https://sirjmkitavi.github.io/blog">GUI</a>👈🏾 or read some <!-- slight delay here-->EPIC💪🏾<!-- slight delay here--> content 👉🏾👉🏾<a href="https://sirjmkitavi.github.io/blog/post">blog</a>.</br></p>
+<p>To <!-- slight delay here-->render 👉🏽<a href="https://sirjmkitavi.github.io/blog">GUI</a>👈🏽 or read some <!-- slight delay here-->EPIC💪🏽<!-- slight delay here--> content 👉🏽👉🏽<a href="https://sirjmkitavi.github.io/blog/post">blog</a>.</br></p>
 
 <span id="a">root@sirjm</span>:<span id="b">~</span><span id="c">$</span>

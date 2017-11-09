@@ -1,0 +1,3 @@
+<span id="a">root@sirjm</span>:<span id="b">~</span><span id="c">$</span> find  <!-- slight delay here--> .<!-- slight delay here-->.<!-- slight delay here-->.<!-- slight delay here-->.<!-- slight delay here--><br/>
+
+<span id="a">root@sirjm</span>:<span id="b">~</span><span id="c">$</span>

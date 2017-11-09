@@ -1,11 +1,12 @@
 <span id="a">root@sirjm</span>:<span id="b">~</span><span id="c">$</span> find  <!-- slight delay here--><!-- slight delay here--> .<!-- slight delay here--><!-- slight delay here-->.<!-- slight delay here--><!-- slight delay here-->.<!-- slight delay here--><br/>
 <p>Not Found </br>
-This doesn\'t happen alot. It\'s most likely you.</p>
-<p>Assuming you lost, lets do an `ls` for you</p>
+This doesn't happen alot. It's most likely you.</p>
+<p>Assuming you lost, lets do an `ls -a`, so you can move along</p>
 <span id="a">root@sirjm</span>:<span id="b">~</span><span id="c">$</span> ls
 <p>
-<a href="https://sirjmkitavi.github.io">/root</a>.</br>
-<a href="https://sirjmkitavi.github.io/">/home</a>.</br>
-<a href="https://sirjmkitavi.github.io/blog/post">/blog</a>.</br>
-<a href="https://sirjmkitavi.github.io/blog/about">/about</a>.</br>
+&nbsp&nbsp&nbsp<a href="https://sirjmkitavi.github.io">/root</a>&nbsp&nbsp Go back to root page, more terminal 😎</br>
+&nbsp&nbsp&nbsp<a href="https://sirjmkitavi.github.io/blog">/home</a>&nbsp&nbsp open some normal pictures and thingys</br>
+&nbsp&nbsp&nbsp<a href="https://sirjmkitavi.github.io/blog/post">/blog</a>&nbsp&nbsp go read some fun stuff</br>
+&nbsp&nbsp&nbsp<a href="https://sirjmkitavi.github.io/blog/about">/about</a>&nbsp&nbsp see why you should date me</br>
 </p> 
+<span id="a">root@sirjm</span>:<span id="b">~</span><span id="c">$</span> Bye

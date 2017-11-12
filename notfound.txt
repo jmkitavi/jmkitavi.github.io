@@ -5,8 +5,8 @@ This doesn't happen alot. It's most likely you.</p>
 <span id="a">root@sirjm</span>:<span id="b">~</span><span id="c">$</span> ls
 <p>
 &nbsp&nbsp&nbsp<a href="https://sirjmkitavi.github.io">/root</a>&nbsp&nbsp Go back to root page, more terminal 😎</br>
-&nbsp&nbsp&nbsp<a href="https://sirjmkitavi.github.io/gui">/home</a>&nbsp&nbsp open some normal pictures and thingys</br>
+&nbsp&nbsp&nbsp<a href="https://sirjmkitavi.github.io/gui">/gui</a>&nbsp&nbsp open some normal pictures and thingys</br>
 &nbsp&nbsp&nbsp<a href="https://sirjmkitavi.github.io/gui/post">/blog</a>&nbsp&nbsp go read some fun stuff</br>
 &nbsp&nbsp&nbsp<a href="https://sirjmkitavi.github.io/gui/about">/about</a>&nbsp&nbsp see why you should date me</br>
 </p> 
-<span id="a">root@sirjm</span>:<span id="b">~</span><span id="c">$</span> Bye
+<span id="a">root@sirjm</span>:<span id="b">~</span><span id="c">$</span> Bye. 
